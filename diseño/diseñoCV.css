@@ -2,12 +2,21 @@ body{
     background-color: rgb(205, 228, 247);
 }
 header{
-    background-color: rgb(7, 107, 52);
+    height: 500px;
+    width: 100%;
+    background-color: rgb(7, 107, 52)
 }
 
 h1{
     text-align: center;
     color: white;
+    font-size: xx-large;
+}
+
+#foto{
+    height: 400px;
+    width: 20%;
+    margin-left: 100px;
 }
 
 #aptitudes{
@@ -28,6 +37,10 @@ h1{
 
 #idiomas{
     color: black;
+}
+
+#contacto{
+    font-size: large;
 }
 
 /* link no visitado */
