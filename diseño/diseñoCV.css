@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(118, 189, 247);
+    background-color: rgb(205, 228, 247);
 }
 header{
     background-color: rgb(7, 107, 52);
@@ -8,4 +8,44 @@ header{
 h1{
     text-align: center;
     color: white;
+}
+
+#aptitudes{
+    color: black;
+}
+
+#resprof{
+    color: black;
+}
+
+#histlab{
+    color: black;
+}
+
+#formacion{
+    color: black;
+}
+
+#idiomas{
+    color: black;
+}
+
+/* link no visitado */
+#contacto:link {
+    color: red;
+}
+
+/* link visitado */
+#contacto:visited {
+    color: green;
+}
+
+/* pasar el mouse sobre el link */
+#contacto:hover {
+    color: hotpink;
+}
+
+/* seleccionar link */
+#contacto:active {
+    color: blue;
 }
