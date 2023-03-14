@@ -1,9 +1,11 @@
 body{
     background-color: rgb(118, 189, 247);
 }
+header{
+    background-color: rgb(7, 107, 52);
+}
 
 h1{
     text-align: center;
-    background-color: rgb(115, 185, 245);
-    color: green;
+    color: white;
 }
